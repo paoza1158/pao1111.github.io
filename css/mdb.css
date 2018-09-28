@@ -1806,12 +1806,21 @@ a.text-light:hover, a.text-light:focus {
 .pattern-9 {
   background: url("../img/overlays/09.png"); }
 
+<<<<<<< HEAD
 /*!
  * Waves v0.7.6
  * http://fian.my.id/Waves
  *
  * Copyright 2014-2018 Alfiana E. Sibuea and other contributors
  * Released under the MIT license
+=======
+/*!
+ * Waves v0.7.6
+ * http://fian.my.id/Waves
+ *
+ * Copyright 2014-2018 Alfiana E. Sibuea and other contributors
+ * Released under the MIT license
+>>>>>>> 6b1ab5b5b4f6fda79251b8bb65546c085a65aba2
  * https://github.com/fians/Waves/blob/master/LICENSE */
 .waves-effect {
   position: relative;
@@ -1934,12 +1943,21 @@ a.text-light:hover, a.text-light:focus {
 a.waves-effect, a.waves-light {
   display: inline-block; }
 
+<<<<<<< HEAD
 /*!
  * animate.css -http://daneden.me/animate
  * Version - 3.7.0
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
  * Copyright (c) 2018 Daniel Eden
+=======
+/*!
+ * animate.css -http://daneden.me/animate
+ * Version - 3.7.0
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2018 Daniel Eden
+>>>>>>> 6b1ab5b5b4f6fda79251b8bb65546c085a65aba2
  */
 .animated {
   -webkit-animation-duration: 1s;
@@ -2193,12 +2211,21 @@ a.waves-effect, a.waves-light {
   -webkit-animation-name: fadeOutUp;
   animation-name: fadeOutUp; }
 
+<<<<<<< HEAD
 /*!
  * animate.css -http://daneden.me/animate
  * Version - 3.7.0
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
  * Copyright (c) 2018 Daniel Eden
+=======
+/*!
+ * animate.css -http://daneden.me/animate
+ * Version - 3.7.0
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
+ *
+ * Copyright (c) 2018 Daniel Eden
+>>>>>>> 6b1ab5b5b4f6fda79251b8bb65546c085a65aba2
  */
 @-webkit-keyframes bounce {
   from,
